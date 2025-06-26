@@ -1,0 +1,13 @@
+*pycache*
+checkpoint*
+*.jpg
+*.png
+*.vscode
+*Inference_output*
+*__Archive*
+*.ipynb_checkpoints
+notebooks/*
+*.csv
+*.json
+*.log
+*.txt
